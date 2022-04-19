@@ -1,0 +1,11 @@
+C:\Users\bilal\source\repos\Form\CheckedListBox\bin\Debug\CheckedListBox.exe.config
+C:\Users\bilal\source\repos\Form\CheckedListBox\bin\Debug\CheckedListBox.exe
+C:\Users\bilal\source\repos\Form\CheckedListBox\bin\Debug\CheckedListBox.pdb
+C:\Users\bilal\source\repos\Form\CheckedListBox\obj\Debug\CheckedListBox.csproj.AssemblyReference.cache
+C:\Users\bilal\source\repos\Form\CheckedListBox\obj\Debug\CheckedListBox.csproj.SuggestedBindingRedirects.cache
+C:\Users\bilal\source\repos\Form\CheckedListBox\obj\Debug\CheckedListBox.Form1.resources
+C:\Users\bilal\source\repos\Form\CheckedListBox\obj\Debug\CheckedListBox.Properties.Resources.resources
+C:\Users\bilal\source\repos\Form\CheckedListBox\obj\Debug\CheckedListBox.csproj.GenerateResource.cache
+C:\Users\bilal\source\repos\Form\CheckedListBox\obj\Debug\CheckedListBox.csproj.CoreCompileInputs.cache
+C:\Users\bilal\source\repos\Form\CheckedListBox\obj\Debug\CheckedListBox.exe
+C:\Users\bilal\source\repos\Form\CheckedListBox\obj\Debug\CheckedListBox.pdb
